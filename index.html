@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>웹 스터디 ::: 김진우</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.0/css/all.min.css"
+        integrity="sha512-10/jx2EXwxxWqCLX/hHth/vu2KY3jCF70dCQB8TSgNjbCVAC/8vai53GfMDrO2Emgwccf2pJqxct9ehpzG+MTw=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="./css/style.css" />
+</head>
+
+<body>
+    <h1>웹화면 구현 수업의 웹스터디 페이지</h1>
+    <h2>김진우</h2>
+    <p>하나의 문단을 작성할 때는 <em>p태그</em>를 사용합니다.</p>
+    <p>
+        안녕하세요, <br />
+        <strong>코딩 공부</strong>하기 좋은 날입니다.<br /><br />
+        <i class="fa-brands fa-tiktok fa-2xl" style="color: #ff0000"></i>
+        <i class="fa-brands fa-facebook fa-bounce fa-2xl" style="color: #74c0fc"></i>
+        <i class="fa-brands fa-accessible-icon fa-shake fa-2xl"></i>
+    </p>
+    <hr />
+    <div class="contents">
+        <dl>
+            <dt>영화소개</dt>
+            <hr color="black" />
+            <dt>샹치와 텐 링즈의 전설</dt>
+            <br />
+            <dd>
+                <a target="_blank"
+                    href="https://namu.wiki/w/%EC%83%B9%EC%B9%98%EC%99%80%20%ED%85%90%20%EB%A7%81%EC%A6%88%EC%9D%98%20%EC%A0%84%EC%84%A4"><img
+                        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9XyGN86-FSxVAalHAJGoMBZg4RAoEIHJcvmOM4_fYBA&s"
+                        width="250px" /></a>
+            </dd>
+            <dd>
+                어린 시절부터 강력한 전사로 자라난 샹치는 평화로운 삶을 위해 모든 것을
+                포기하고 떠나 살아간다. 그러던 어느 날 어두운 세력의 갑작스러운 공격을
+                받은 샹치는 거부할 수 없는 자신의 숙명을 받아들이고, 비범한 힘을 통해
+                세상과 만난다.
+            </dd>
+        </dl>
+    </div>
+    <div id="ootd">
+        <dl>
+            <dt><u>오늘의 패션</u></dt>
+            <dd>오늘의 패션/코디를 소개하는 부분입니다.</dd>
+        </dl>
+    </div>
+    <a target="_blank"
+        href="https://namu.wiki/w/%EC%83%B9%EC%B9%98%EC%99%80%20%ED%85%90%20%EB%A7%81%EC%A6%88%EC%9D%98%20%EC%A0%84%EC%84%A4">
+        <div class="contents">
+            <dl>
+                <dt>넷플릭스 소개</dt>
+                <dd style="color: green">넷플릭스 시리즈를 소개하는 부분입니다.</dd>
+            </dl>
+        </div>
+    </a>
+
+    <div id="login_form">
+        <form action="#" method="get">
+            <label for="login_id">아이디 입력: </label>
+            <input type="text" name="login_id" id="login_id" value="아이디" />
+
+            <label for="login_id">아이디 입력: </label>
+            <input type="text" name="login_id" id="login_id" placeholder="아이디" />
+
+            <label for="">
+                패스워드 입력: <input type="password" name="" id="" />
+            </label>
+
+            전화번호: <input type="tel" name="" id="" /> 숫자:
+            <input type="number" name="" id="" /> 웹주소:
+            <input type="url" name="" id="" /> 검색어:
+            <input type="search" name="" id="" /> 이메일 주소:
+            <input type="email" name="" id="" /> 체크박스:
+            <input type="checkbox" name="" id="" /> 라디오 버튼:
+            <input type="radio" name="" id="" /> 파일 첨부:
+            <input type="file" name="" id="" />
+            <input type="button" value="버튼" />
+            <input type="image" src="./src/facebook.png" style="width: 200px" alt="" />
+            히든은 보이지 않음: <input type="hidden" name="" /> 날짜:
+            <input type="date" name="" id="" /> 날짜 시간:
+            <input type="datetime-local" name="" id="" /> 월:
+            <input type="month" name="" id="" /> 주:
+            <input type="week" name="" id="" /> 시:
+            <input type="time" name="" id="" /> 범위:
+            <input type="range" name="" id="" /> 색상 선택:
+            <input type="color" name="" id="" />
+            <textarea name="" id="" cols="30" rows="10">
+                하고 싶은 말을 쓰세요
+            </textarea>
+            <input type="submit" value="로그인 하기" />
+            <input type="reset" value="양식 초기화" />
+        </form>
+    </div>
+
+    <!-- table>tr>th*4{번호}^tr*3>td*4{원} -->
+
+    <table style="border: 1px solid gray; text-align: center">
+        <tr>
+            <th>번호</th>
+            <th>번호</th>
+            <th>번호</th>
+            <th>번호</th>
+        </tr>
+        <tr>
+            <td>원</td>
+            <td>원</td>
+            <td>원</td>
+            <td>원</td>
+        </tr>
+        <tr>
+            <td>원</td>
+            <td>원</td>
+            <td>원</td>
+            <td rowspan="2">1000원</td>
+        </tr>
+        <tr>
+            <td>원</td>
+            <td>원</td>
+            <td>원</td>
+        </tr>
+        <tr>
+            <td>합계</td>
+            <td colspan="3">6500원</td>
+        </tr>
+    </table>
+
+    <div style="width: 800px; height: 1500px;; text-align: center">
+        <table width="500px" border="2" cellspacing="3">
+            <caption style="color: #ff0000; font-weight: bold;">제품 주문표</caption>
+            <col style="width: 10%;">
+            <colgroup span="3" style="width: 20%; background-color: beige;"></colgroup>
+            <col style="width: 30%;">
+            <thead>
+                <tr>
+                    <th scope="col">순번</th>
+                    <th scope="col">품명</th>
+                    <th scope="col">단가</th>
+                    <th scope="col">수령</th>
+                    <th scope="col">비고</th>
+                </tr>
+            </thead>
+
+            <tfoot>
+                <tr>
+                    <td scope="row">합계</td>
+                    <td colspan="4">0원</td>
+                </tr>
+            </tfoot>
+
+            <tbody>
+                <tr>
+                    <td scope="row">1</td>
+                    <td>새우깡</td>
+                    <td>1,300</td>
+                    <td>8</td>
+                    <td rowspan="3">해당없음</td>
+                </tr>
+                <tr>
+                    <td scope="row">2</td>
+                    <td>감자깡</td>
+                    <td>1,300</td>
+                    <td>8</td>
+                </tr>
+                <tr>
+                    <td scope="row">3</td>
+                    <td>자갈치</td>
+                    <td>1,400</td>
+                    <td>20</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <br>
+        
+        <video src="./src/kimchi.mp4" controls></video>
+    </div>
+</body>
+
+</html>
