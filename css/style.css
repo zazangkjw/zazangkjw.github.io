@@ -13,6 +13,10 @@ h1 {
     background-color: gray;
 }
 
+a{
+    text-decoration: none;
+}
+
 a[target="_blank"]{
     color: orange;
 }
@@ -51,4 +55,34 @@ h5:active{
 
 input:focus{
     background-color: orangered;
+}
+
+div.main{
+    width: 200px;
+    height: 50px;
+    /* background-color: #dddddd; */
+    background-image: url(../src/facebook.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    text-align: center;
+    border: blue outset 5px;
+    border-radius: 10px;
+    margin: 10px 50px 20px 30px;
+    padding: 5px 2px 5px 2px;
+}
+
+div:hover button{
+    color: red;
+}
+
+div#sub_btn:hover button{
+    color: rgba(0, 0, 255, 0.7);
+    background-color: yellow;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+button{
+    font-style: italic;
+    margin: 10px;
 }
