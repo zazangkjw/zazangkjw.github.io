@@ -1,8 +1,28 @@
 /* 전역 CSS 정의 */
 h1 {
-    font-size: 50px;
+    font-size: 30px;
     color: red;
     background-color: yellow;
+}
+
+#main_head{
+    color: aqua;
+}
+
+.head_title{
+    background-color: gray;
+}
+
+a[target="_blank"]{
+    color: orange;
+}
+
+a:link{
+    color: cyan;
+}
+
+a:visited{
+    color: purple;
 }
 
 /* footer 영역 CSS 정의 */
@@ -11,4 +31,24 @@ h5{
     font-size: 10px;
     background-color: gray;
     color: #222222;
+}
+
+h5:hover{
+    background-color: blue;
+}
+
+h5:active{
+    background-color: red;
+}
+
+#title_gear{
+    color: #B197FC;
+}
+
+#title_gear:hover{
+    color: red;
+}
+
+input:focus{
+    background-color: orangered;
 }
