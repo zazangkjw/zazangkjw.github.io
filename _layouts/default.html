@@ -1,41 +1,12 @@
----
----
-
 <!DOCTYPE html>
-<html class="">
-  <head>
-    <meta charset="UTF-8">
-    <meta name="apple-mobile-web-app-capable" content="yes">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="{{ site.data.settings.seo.description }}">
-    <meta rel="author" href="{{ site.data.settings.seo.rel-author }}">
-    <meta rel="publisher" href="{{ site.data.settings.seo.rel-publisher }}">
-    <title>
-      {% if page.title == "Home" %}
-        {{ site.title }}
-      {% else %}
-        {{ page.title }} | {{ site.title }}
-      {% endif %}
-    </title>
-    <link rel="stylesheet" href="{{ site.github.url }}/assets/css/all.css">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
-    <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-    <!-- Use Atom -->
-    {% feed_meta %}
-    <script type="text/javascript" async
-      src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
-    </script>
-    {% include analytics.html %}
-    <!-- Use Jekyll SEO plugin -->
-    {% seo %}
-  </head>
+<html lang="en">
+  {% include head.html %}
   <body>
-    <div class="site-container">
-      {% include header.html %}
-      {{ content }}
-      {% include footer.html %}
+    {{ content }}
+    <div class="top" title="Top">
+      <svg aria-hidden="true" focusable="false" data-prefix="fal" data-icon="angle-up" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512" class="svg-inline--fa fa-angle-up fa-w-8 fa-2x"><path fill="currentColor" d="M136.5 185.1l116 117.8c4.7 4.7 4.7 12.3 0 17l-7.1 7.1c-4.7 4.7-12.3 4.7-17 0L128 224.7 27.6 326.9c-4.7 4.7-12.3 4.7-17 0l-7.1-7.1c-4.7-4.7-4.7-12.3 0-17l116-117.8c4.7-4.6 12.3-4.6 17 .1z" class=""></path></svg>
     </div>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    {% include javascripts.html %}
+    {% include analytics.html %}
   </body>
 </html>
