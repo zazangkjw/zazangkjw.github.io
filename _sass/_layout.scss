@@ -211,11 +211,10 @@ height: 230px;
 overflow: hidden;
 }
 .thumbnail img{
-width: 120%;
+width: 500px;
 height: auto;
 position: relative;
-left: -50%;
-top: -5%;
+align-self: center;
 }
 .thumbnail a{
 float: left;
