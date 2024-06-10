@@ -33,10 +33,3 @@ You can also put regular text between your rows of images. Say you wanted to wri
 <div class="col three caption">
 	주석
 </div>
-
-<div>
-	<img class="col one" style="float: none;" src="{{ site.baseurl }}/img/2.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	주석
-</div>
