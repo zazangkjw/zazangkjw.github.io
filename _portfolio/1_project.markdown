@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 꿈 전시관
-description: 캡스톤디자인/졸업작품
+description: 캡스톤디자인<br>졸업작품
 img: /img/capstone/vr.jpg
 ---
 
