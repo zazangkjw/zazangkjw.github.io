@@ -27,10 +27,15 @@ You can also put regular text between your rows of images. Say you wanted to wri
 
 You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
 
-<div class="img_row">
-	<img class="col one" src=null alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/2.jpg" alt="" title="example image"/>
-	<img class="col one" src=null alt="" title="example image"/>
+<div style="text-align: center;">
+	<img class="col one" style="float: none;" src="{{ site.baseurl }}/img/2.jpg" alt="" title="example image"/>
+</div>
+<div class="col three caption">
+	주석
+</div>
+
+<div>
+	<img class="col one" style="float: none;" src="{{ site.baseurl }}/img/2.jpg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
 	주석
