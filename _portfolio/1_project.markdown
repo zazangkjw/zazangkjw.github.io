@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 꿈 전시관
+title: <b>꿈 전시관</b>
 description: 캡스톤디자인<br>졸업작품
-img: /img/capstone/vr.jpg
+img: /img/capstone/dog.jpg
 ---
 
 Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
