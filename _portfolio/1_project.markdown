@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <b>꿈 전시관</b>
+title: 꿈 전시관
 description: 캡스톤디자인<br>졸업작품
 img: /img/capstone/dog.jpg
 ---
