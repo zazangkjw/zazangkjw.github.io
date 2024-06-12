@@ -13,7 +13,7 @@ To give your project a background in the portfolio page, just add the img tag to
 
 
 
-<br><br><br><br><h1><strong>타이틀 화면</strong></h1><br>
+<br><br><br><br><h1><strong>1. 타이틀 화면</strong></h1><br>
 
 You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.<br><br>
 
@@ -36,7 +36,7 @@ You can also put regular text between your rows of images. Say you wanted to wri
 
 
 
-<br><br><br><br><h1><strong>꿈 전시관</strong></h1><br>
+<br><br><br><br><h1><strong>2. 꿈 전시관</strong></h1><br>
 
 You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.<br><br>
 
@@ -52,7 +52,7 @@ You can also put regular text between your rows of images. Say you wanted to wri
 
 
 
-<br><br><br><br><h1><strong>첫 번째 꿈 (사자탈 꿈)</strong></h1><br>
+<br><br><br><br><h1><strong>3. 첫 번째 꿈 (사자탈 꿈)</strong></h1><br>
 
 You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.<br><br>
 
@@ -113,7 +113,7 @@ You can also put regular text between your rows of images. Say you wanted to wri
 
 
 
-<br><br><br><h1><strong>두 번째 꿈 (광대 꿈)</strong></h1><br>
+<br><br><br><h1><strong>4. 두 번째 꿈 (광대 꿈)</strong></h1><br>
 
 You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.<br><br>
 
