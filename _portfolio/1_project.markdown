@@ -12,6 +12,7 @@ To give your project a background in the portfolio page, just add the img tag to
 
 
 
+<br><br>
 <h1><strong>타이틀 화면</strong></h1>
 <br>
 
@@ -36,6 +37,7 @@ You can also put regular text between your rows of images. Say you wanted to wri
 
 
 
+<br><br>
 <h1><strong>꿈 전시관</strong></h1>
 <br>
 
@@ -53,6 +55,7 @@ You can also put regular text between your rows of images. Say you wanted to wri
 
 
 
+<br><br>
 <h1><strong>첫 번째 꿈 (사자탈 꿈)</strong></h1>
 <br>
 
@@ -115,6 +118,7 @@ You can also put regular text between your rows of images. Say you wanted to wri
 
 
 
+<br><br>
 <h1><strong>두 번째 꿈 (광대 꿈)</strong></h1>
 <br>
 
