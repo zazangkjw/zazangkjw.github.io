@@ -9,7 +9,12 @@ Every project has a beautiful feature shocase page. It's easy to include images,
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so: 
 
-<h1>타이틀 화면</h1>
+
+
+
+<h1><strong>타이틀 화면</strong></h1>
+
+You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
 
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/capstone/title.jpg" alt="" title="example image"/>
@@ -27,7 +32,10 @@ You can also put regular text between your rows of images. Say you wanted to wri
 	주석
 </div>
 
-<h1>꿈 전시관</h1>
+
+
+
+<h1><strong>꿈 전시관</strong></h1>
 
 You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
 
@@ -40,7 +48,12 @@ You can also put regular text between your rows of images. Say you wanted to wri
 
 You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
 
-<h1>첫 번째 꿈 (사자탈 꿈)</h1>
+
+
+
+<h1><strong>첫 번째 꿈 (사자탈 꿈)</strong></h1>
+
+You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
 
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/capstone/vr.jpg" alt="" title="example image"/>
@@ -96,7 +109,12 @@ You can also put regular text between your rows of images. Say you wanted to wri
 
 You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
 
-<h1>두 번째 꿈 (광대 꿈)</h1>
+
+
+
+<h1><strong>두 번째 꿈 (광대 꿈)</strong></h1>
+
+You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
 
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/capstone/building.jpg" alt="" title="example image"/>
