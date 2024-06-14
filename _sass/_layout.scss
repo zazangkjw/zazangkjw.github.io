@@ -292,8 +292,8 @@ box-sizing: border-box;}
 
 .history div {position: relative; padding: 0 0 0 48px;}
 .history div:before { content:""; position:absolute; left:8px; top:0;
-width: 2px; height:100%; background:#ddd;}
-.history div:first-child:before { top:10px; height:calc(100%);}
+width: 2px; height: calc(100% + 20px); background:#ddd;}
+.history div:first-child:before { top:10px; height:calc(100% + 10px);}
 
 
 .history ol { padding: 20px 0 74px; }
