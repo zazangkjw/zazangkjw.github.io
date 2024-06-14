@@ -282,7 +282,7 @@ font-size: $caption_font_size;
 
 
 
-.history h2 {position: relative; font-size: 33px color: #000; line-height: 1;}
+.history h2 {position: relative; font-size: 33px; color: #000; line-height: 1;}
 .history h2:before {
   content:""; position: absolute;
   left:-48px; top:50%; transform: translateY(-50%);
