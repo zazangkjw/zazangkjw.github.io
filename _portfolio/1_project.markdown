@@ -8,16 +8,13 @@ img: /img/capstone/dog.jpg
 <div>
 
 
-<div class="video-wrap">
-	<iframe src="https://www.youtube.com/embed/Ftlpq0xSPDs?si=BQHh4Go4JKZLD5jz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div><br><br>
 
-<div class="video-wrap">
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/Ftlpq0xSPDs?si=OWKf_Oyqu6UHYBKx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="img_row">
+	<iframe class="col three" src="https://www.youtube.com/embed/Ftlpq0xSPDs?si=OWKf_Oyqu6UHYBKx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div><br><br>
 
 <div class="img_row">
-	<iframe class="col three" height="600" src="https://www.youtube.com/embed/PYZSWrpkXQk?si=VRFYxSafZBwfJfRb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+	<iframe class="col three" height="1200" src="https://www.youtube.com/embed/PYZSWrpkXQk?si=VRFYxSafZBwfJfRb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div><br><br>
 
 Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
