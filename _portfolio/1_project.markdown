@@ -31,10 +31,10 @@ img: /img/capstone/dog.jpg
 	</figure>
 </div><br>
 
+깃허브 주소 <a href="https://github.com/zazangkjw/DreamGallery" target="_blank">https://github.com/zazangkjw/DreamGallery</a><br>
 목원대학교 캡스톤디자인 및 졸업작품으로 제작한 3D 게임 '꿈 전시관'입니다.<br>
 ‘꿈 전시관’은 서로 독립적인 옴니버스 형식의 꿈들을 직접 체험할 수 있는 1인칭 3D 게임입니다.<br>
-게임 개발 엔진은 Unity를 사용했고, 개발에 필요한 오브젝트와 애니메이션은 3D 모델링 프로그램인 Blender를 통해 직접 제작했습니다.<br>
-깃허브 주소 <a href="https://github.com/zazangkjw/DreamGallery" target="_blank">https://github.com/zazangkjw/DreamGallery</a>
+게임 개발 엔진은 Unity를 사용했고, 개발에 필요한 오브젝트와 애니메이션은 3D 모델링 프로그램인 Blender를 통해 직접 제작했습니다.
 <br><br>
 
 
