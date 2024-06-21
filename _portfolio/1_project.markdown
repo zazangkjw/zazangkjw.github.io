@@ -7,10 +7,13 @@ img: /img/capstone/dog.jpg
 
 <div>
 
-<div class="img_row">
-	<div class="col three video-wrap">
-		<iframe src="https://www.youtube.com/embed/Ftlpq0xSPDs?si=BQHh4Go4JKZLD5jz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-	</div>
+
+<div class="video-wrap">
+	<iframe src="https://www.youtube.com/embed/Ftlpq0xSPDs?si=BQHh4Go4JKZLD5jz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div><br><br>
+
+<div class="video-wrap">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/Ftlpq0xSPDs?si=OWKf_Oyqu6UHYBKx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div><br><br>
 
 <div class="img_row">
