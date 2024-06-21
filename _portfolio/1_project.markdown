@@ -81,7 +81,7 @@ img: /img/capstone/dog.jpg
 	<img class="col three" src="{{ site.baseurl }}/img/capstone/vr.jpg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
-	VR 기기
+	VR 기기를 통해 꿈 세계 입장
 </div><br><br>
 
 선택이 끝난 플레이어는 해당 전시물 앞에 있는 VR 기기와 상호작용하여 해당 꿈속으로 들어갈 수 있습니다.<br>
@@ -219,7 +219,7 @@ img: /img/capstone/dog.jpg
 	<img class="col three" src="{{ site.baseurl }}/img/capstone/balance.jpg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
-	균형 잡기
+	외발자전거 균형 잡기
 </div><br><br>
 
 플레이어는 외줄을 건너는 동안 좌우 키를 눌러서 외발자전거의 균형을 잡아야 합니다.<br>
