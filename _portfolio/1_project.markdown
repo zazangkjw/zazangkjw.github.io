@@ -154,7 +154,8 @@ You can also put regular text between your rows of images. Say you wanted to wri
 You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.<br><br>
 
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/capstone/safezone3.jpg" alt="" title="example image"/>
+	<img class="col half" src="{{ site.baseurl }}/img/capstone/safezone3.jpg" alt="" title="example image"/>
+	<img class="col half" src="{{ site.baseurl }}/img/capstone/safezone4.jpg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
 	주석
@@ -181,7 +182,8 @@ You can also put regular text between your rows of images. Say you wanted to wri
 You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.<br><br>
 
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/capstone/challenge2.jpg" alt="" title="example image"/>
+	<img class="col half" src="{{ site.baseurl }}/img/capstone/challenge2.jpg" alt="" title="example image"/>
+	<img class="col half" src="{{ site.baseurl }}/img/capstone/challenge3.jpg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
 	주석
@@ -208,7 +210,17 @@ You can also put regular text between your rows of images. Say you wanted to wri
 You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.<br><br>
 
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/capstone/success.jpg" alt="" title="example image"/>
+	<img class="col half" src="{{ site.baseurl }}/img/capstone/success_platform2.jpg" alt="" title="example image"/>
+	<img class="col half" src="{{ site.baseurl }}/img/capstone/success.jpg" alt="" title="example image"/>
+</div>
+<div class="col three caption">
+	주석
+</div><br><br>
+
+You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.<br><br>
+
+<div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/img/capstone/out.jpg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
 	주석
