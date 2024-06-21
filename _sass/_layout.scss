@@ -381,3 +381,13 @@
     color: #000;
     line-height: 29px;
 }
+
+.aspect {
+    aspect-ratio: 16/9;
+    width: 100%;
+    overflow:hidden;
+}
+.aspect iframe {
+    width: 100%;
+    height: 100%;
+}
