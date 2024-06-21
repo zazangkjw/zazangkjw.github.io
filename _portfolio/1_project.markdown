@@ -29,10 +29,12 @@ img: /img/capstone/dog.jpg
     	allowFullScreen
     	></iframe>
 	</figure>
-</div><br><br>
+</div><br>
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:<br><br>
+목원대학교 캡스톤디자인 및 졸업작품으로 제작한 3D 게임 '꿈 전시관'입니다.<br>
+‘꿈 전시관’은 서로 독립적인 옴니버스 형식의 꿈들을 직접 체험할 수 있는 1인칭 3D 게임입니다.
+게임 개발 엔진은 Unity를 사용했고, 개발에 필요한 오브젝트와 애니메이션은 3D 모델링 프로그램인 Blender를 통해 직접 제작했습니다.
+<br><br>
 
 
 
