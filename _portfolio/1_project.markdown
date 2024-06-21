@@ -8,7 +8,9 @@ img: /img/capstone/dog.jpg
 <div>
 
 <div class="img_row">
-	<iframe class="col three" height="450" src="https://www.youtube.com/embed/Ftlpq0xSPDs?si=BQHh4Go4JKZLD5jz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+	<div class="video-wrap">
+		<iframe src="https://www.youtube.com/embed/Ftlpq0xSPDs?si=BQHh4Go4JKZLD5jz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+	</div>
 </div><br><br>
 
 <div class="img_row">
