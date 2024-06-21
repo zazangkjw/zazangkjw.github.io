@@ -6,6 +6,9 @@ img: /img/capstone/dog.jpg
 ---
 
 <div>
+<br><br><br><br>
+
+'꿈 전시관' 깃허브: <a href="https://github.com/zazangkjw/DreamGallery" target="_blank">https://github.com/zazangkjw/DreamGallery</a>
 
 <br><br><br><br><h1><strong>0. 플레이 영상</strong></h1><br>
 
