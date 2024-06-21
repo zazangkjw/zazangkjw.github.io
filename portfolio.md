@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Portfolio
-permalink: /portfolio/
+title: 프로젝트 소개 및 다운로드
+permalink: /projects/
 ---
 
 {% for project in site.portfolio %}
