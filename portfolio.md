@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 프로젝트 소개 및 다운로드
+title: 프로젝트 소개
 permalink: /projects/
 ---
 
