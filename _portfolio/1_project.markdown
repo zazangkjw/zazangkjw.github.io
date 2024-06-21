@@ -41,8 +41,6 @@ img: /img/capstone/dog.jpg
 
 <br><br><br><br><h1><strong>1. 타이틀 화면</strong></h1><br>
 
-<br><br>
-
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/capstone/title.jpg" alt="" title="example image"/>
 </div>
@@ -70,7 +68,7 @@ img: /img/capstone/dog.jpg
 	<img class="col three" src="{{ site.baseurl }}/img/capstone/gallery.jpg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
-	주석
+	전시관 모습
 </div><br><br>
 
 입장 버튼을 눌러 들어온 꿈 전시관의 모습입니다. 이곳에서 플레이어는 진열되어 있는 전시물들을 보며 자신이 체험할 꿈을 직접 선택할 수 있습니다.<br><br>
@@ -79,7 +77,7 @@ img: /img/capstone/dog.jpg
 	<img class="col three" src="{{ site.baseurl }}/img/capstone/vr.jpg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
-	주석
+	VR 기기
 </div><br><br>
 
 선택이 끝난 플레이어는 해당 전시물 앞에 있는 VR 기기와 상호작용하여 해당 꿈속으로 들어갈 수 있습니다. 현재 들어갈 수 있는 꿈에는 ‘사자탈’ 꿈과 ‘광대’ 꿈이 있습니다.<br><br>
