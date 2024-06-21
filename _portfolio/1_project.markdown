@@ -7,7 +7,7 @@ img: /img/capstone/dog.jpg
 
 <div>
 
-<h1><strong>깃허브 주소 <a href="https://github.com/zazangkjw/DreamGallery" target="_blank">https://github.com/zazangkjw/DreamGallery</a></strong></h1><br>
+<h1>깃허브 주소 <a href="https://github.com/zazangkjw/DreamGallery" target="_blank">https://github.com/zazangkjw/DreamGallery</a></h1><br>
 
 <br><br><br><br><h1><strong>0. 플레이 영상</strong></h1><br>
 
