@@ -20,7 +20,7 @@ img: /img/capstone/dog.jpg
     	allowFullScreen
     	></iframe>
 	</figure>
-</div><br>
+</div>
 
 <div class="img_row">
 	<figure class="aspect">
