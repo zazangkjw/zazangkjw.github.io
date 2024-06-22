@@ -7,7 +7,7 @@ img: /img/capstone/dog.jpg
 
 <div>
 
-<h1><a href="https://github.com/zazangkjw/DreamGallery" target="_blank" style="word-break:break-all">https://github.com/zazangkjw/DreamGallery</a></h1><br>
+<h1><a href="https://github.com/zazangkjw/DreamGallery" target="_blank" style="word-break:break-all; font-weight: bold; line-height: 1.4">https://github.com/zazangkjw/DreamGallery</a></h1><br>
 
 <br><br><br><br><h1><strong>0. 플레이 영상</strong></h1><br>
 
@@ -101,7 +101,7 @@ img: /img/capstone/dog.jpg
 	오프닝 컷신
 </div><br><br>
 
-첫 번째 꿈인 ‘사자탈’ 꿈은, 아파트 집에서 굽던 고기가 타버려서 연기를 빼내기 위해 모든 창문을 열었는데 갑자기 창 밖에 괴물이 나타나서 다시 창문을 닫으러 다닌다는 내용입니다.
+첫 번째 꿈인 ‘사자탈’ 꿈은, 아파트 집에서 굽던 고기가 타버려서 연기를 빼내기 위해 모든 창문을 열었는데 갑자기 창 밖에 괴물이 나타나서 다시 창문을 닫으러 다닌다는 내용입니다.<br>
 게임이 시작되면 새까맣게 탄 고기와 프라이팬을 보여주는 컷신이 실행되고, 창문을 열어서 연기를 빼야한다는 대사가 나타납니다.<br><br>
 
 <div class="img_row">
