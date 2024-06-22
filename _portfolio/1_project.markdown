@@ -245,7 +245,7 @@ img: /img/capstone/dog.jpg
 	도전 성공 연출
 </div><br><br>
 
-도전에 성공하면 관객석에서 박수 갈채와 카메라 플래시가 터져나오기 시작합니다.<br><br>
+도전에 성공하면 관객석에서 박수갈채와 카메라 플래시가 터져 나오기 시작합니다.<br><br>
 
 <div class="img_row">
 	<img class="col half" src="{{ site.baseurl }}/img/capstone/success.jpg" alt="" title="example image"/>
