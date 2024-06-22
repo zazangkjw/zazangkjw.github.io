@@ -195,7 +195,8 @@ img: /img/capstone/dog.jpg
 </div><br><br>
 
 선택한 엘리베이터의 버튼을 눌러서 다음 장소로 이동할 수 있습니다.<br>
-어느 엘리베이터를 탔냐에 따라 목적지가 달라집니다.<br><br>
+어느 엘리베이터를 탔냐에 따라 목적지가 달라집니다.<br>
+'슈퍼 겁쟁이' 엘리베이터를 탈 경우, 아무 일 없이 안전 구역 아래층으로 이동하게 됩니다.<br><br>
 
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/capstone/challenge1.jpg" alt="" title="example image"/>
