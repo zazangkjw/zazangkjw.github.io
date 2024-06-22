@@ -7,7 +7,7 @@ img: /img/capstone/dog.jpg
 
 <div>
 
-<a style:"overflow: " href="https://github.com/zazangkjw/DreamGallery" target="_blank"><h1>https://github.com/zazangkjw/DreamGallery</h1></a><br>
+<a href="https://github.com/zazangkjw/DreamGallery" target="_blank"><h1>https://github.com/zazangkjw/DreamGallery</h1></a><br>
 
 <br><br><br><br><h1><strong>0. 플레이 영상</strong></h1><br>
 
